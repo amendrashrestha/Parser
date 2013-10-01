@@ -1,4 +1,4 @@
-package com.main.controller;
+package main.java.view;
 
 import java.sql.SQLException;
 
