@@ -2,6 +2,11 @@ package main.java.view;
 
 import java.sql.SQLException;
 
+/**
+ * This is the main class for parsing XML files.
+ * @author ITE
+ *
+ */
 public class Main {
 
 	/**
